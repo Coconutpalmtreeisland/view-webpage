@@ -39,7 +39,7 @@ export default {
         return {
             cardInfo: [
                 {
-                    img: "/src/assets/img/card01.jpg",
+                    img: "../assets/img/card01.jpg",
                     title: "Ballad & Musical Concert with Orchestra",
                     desc: "뮤지컬을 시작한 후 매년 연말 시즌에 열리는 콘서트이다. 1부는 해당 년도에 한 뮤지컬 중 주요 넘버를 골라 뮤지컬을 요약한 구성이다. 1부와 2부 사이에 팬들의 3가지 소원을 들어주는 지니타임이 있으며, 2부는 김준수의 발라드나 OST를 부르거나, 타가수의 발라드를 커버한다. 앵콜로 Incredible이나 사쿠란보 같은 댄스곡을 넣는다.",
                 },
